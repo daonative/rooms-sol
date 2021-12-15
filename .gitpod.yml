@@ -1,6 +1,5 @@
 tasks:
   - init: sh ./scripts/setup.sh
-    command: yarn dev
 
 vscode:
   extensions:
