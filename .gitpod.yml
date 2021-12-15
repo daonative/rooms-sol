@@ -1,0 +1,11 @@
+tasks:
+  - init: ./scripts/setup.sh
+    command: yarn dev
+
+vscode:
+  extensions:
+    - esbenp.prettier-vscode
+    - dbaeumer.vscode-eslint
+    - eamodio.gitlens
+    - matklad.rust-analyzer
+    - donjayamanne.git-extension-pack
